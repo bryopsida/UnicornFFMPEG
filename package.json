@@ -12,13 +12,13 @@
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "pkg": "^4.4.0"
+    "pkg": "^5.8.1"
   },
   "pkg": {
     "targets": [
-      "linux-node10",
-      "macos-node10",
-      "win-node10"
+      "linux-node18",
+      "macos-node18",
+      "win-node18"
     ]
   }
 }
